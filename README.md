@@ -96,7 +96,7 @@ The analysis highlights how unemployment trends in India vary over time and acro
 
 👩‍💻 Author
 
-Vishnu Priya Data Science Intern – CodeAlpha
+GARAKALA GANESH Data Science Intern – CodeAlpha
 
 About
 Unemployment Analysis with Python – CodeAlpha Internship
